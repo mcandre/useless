@@ -1,0 +1,4 @@
+root:x:0:
+users:x:100:
+party:x:101:sshd,user
+vagrant:x:102:
